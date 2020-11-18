@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\bin\Debug\netcoreapp3.1\02.arraysTuition.exe
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\bin\Debug\netcoreapp3.1\02.arraysTuition.deps.json
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\bin\Debug\netcoreapp3.1\02.arraysTuition.runtimeconfig.json
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\bin\Debug\netcoreapp3.1\02.arraysTuition.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\bin\Debug\netcoreapp3.1\02.arraysTuition.dll
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\bin\Debug\netcoreapp3.1\02.arraysTuition.pdb
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\obj\Debug\netcoreapp3.1\02.arraysTuition.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\obj\Debug\netcoreapp3.1\02.arraysTuition.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\obj\Debug\netcoreapp3.1\02.arraysTuition.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\obj\Debug\netcoreapp3.1\02.arraysTuition.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\obj\Debug\netcoreapp3.1\02.arraysTuition.dll
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\obj\Debug\netcoreapp3.1\02.arraysTuition.pdb
+C:\Users\Bla\source\repos\Solution3\02.arraysTuition\obj\Debug\netcoreapp3.1\02.arraysTuition.genruntimeconfig.cache
